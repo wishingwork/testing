@@ -1,2 +1,1 @@
-# testing
-# testing for Vue
+# testing for Vue application
