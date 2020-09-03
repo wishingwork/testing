@@ -19,7 +19,7 @@
     "strong-error-handler": "^2.0.0",
     "loopback-datasource-juggler": "^2.39.0",
     "loopback-component-explorer": "^2.4.0",
-    "loopback": "^2.22.0"
+    "loopback": "^3.25.1"
   },
   "devDependencies": {
     "chai": "^4.1.2",
